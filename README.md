@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src ="https://i.pinimg.com/1200x/ee/a5/a0/eea5a0c5edc6825a585a7594154a4da0.jpg" height="50px" widhth="50px">
-# 👋 | Hadir Hichri | (Développeur Full Stack Junior)
+# 👋<h1> | Hadir Hichri | </h1>(Développeur Full Stack Junior)
 
 **Étudiant en développement avec une forte curiosité pour le Full Stack.** Je développe des **bases solides** sur un large éventail de technologies (Java, Python, PHP/Symfony) et je suis à l'aise avec les outils Front-End (HTML/CSS/JS/Bootstrap) et la conception (**Figma**).
 </div>
